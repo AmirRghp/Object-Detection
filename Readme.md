@@ -28,7 +28,7 @@ Install the required packages using pip:
 
 2. Camera Capture:
    - Video frames are captured in real-time from the default camera (or specified device).
-   - For use default change this part of code on line 22:
+   - For use default camera change this part of code on line 22:
         ```bash
         self.cap = cv2.VideoCapture(0)
         ```
