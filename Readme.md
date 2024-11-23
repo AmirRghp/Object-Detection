@@ -46,8 +46,8 @@ Install the required packages using pip:
 ## Running the Application
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/real-time-object-detection.git
-   cd real-time-object-detection
+   git clone https://github.com/AmirRghp/Object-Detection.git
+   cd Object-Detection
    ```
 2. Run the application:
    ```bash
